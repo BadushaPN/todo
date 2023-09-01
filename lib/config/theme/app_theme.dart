@@ -30,7 +30,7 @@ class AppTheme {
       inputDecoratorUnfocusedHasBorder: true,
       blendOnColors: true,
       blendTextTheme: true,
-      // popupMenuOpacity: 0.95,
+      popupMenuOpacity: 0.95,
     ),
   );
 }
